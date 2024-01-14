@@ -1,0 +1,48 @@
+#title-index {
+    background-color: orange;
+    text-align: center;
+}
+
+#title-zuppa,
+#title-french-soup,
+#title-chicken-soup {
+    color: white;
+    text-align: center;
+}
+
+#title-french-soup {
+    color: black;
+}
+
+#title-chicken-soup {
+    background-color: rgb(71, 0, 0);
+}
+
+#img-zuppa,
+#img-french-soup,
+#img-chicken-soup {
+    height: 300px;
+    width: auto;
+}
+
+.content-zuppa,
+.content-french-soup,
+.content-chicken-soup {
+    font-weight: bold;
+}
+
+.flag-green-zuppa {
+    color: green;
+}
+
+.flag-red-zuppa {
+    color: red;
+}
+
+.flag-blue-french {
+    color: blue;
+}
+
+.flag-red-french {
+    color: red;
+}
